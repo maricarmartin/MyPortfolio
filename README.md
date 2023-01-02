@@ -1,3 +1,3 @@
-# MyPortfolio
-![homework](https://user-images.githubusercontent.com/115593469/210248162-285c22da-9e15-4869-be41-61acd5d72165.jpg)
+# My Portfolio
+![homework](https://user-images.githubusercontent.com/115593469/210248875-16125df7-9e02-4a08-8c0d-1f953f7d4416.jpg)
 
